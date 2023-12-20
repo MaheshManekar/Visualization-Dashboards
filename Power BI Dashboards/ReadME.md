@@ -1,3 +1,9 @@
+# Revenue Insights in Hospitality Domain Challenge by Codebasics
+[Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMWIwY2RjZjUtOTdjNi00NGRkLWFhNjMtMmM3NmJjNjI1NDFlIiwidCI6ImEwNzRjYzAxLWQzNTItNDk4OS1iMTFjLTQ1NWM1YjMyMTM0OCJ9)
+
+![HospitalityDomainChallenge](https://github.com/MaheshManekar/Visualization-Dashboards/assets/77844593/7c9a7fcb-6e85-4ea9-ad0e-4b169206b9e2)
+
+
 # Superstore Dashboard
 [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOWZlYjk0NGMtZmUzYy00Y2E4LTk2ZDMtYTgyYzk2ZWZkZjEwIiwidCI6ImEwNzRjYzAxLWQzNTItNDk4OS1iMTFjLTQ1NWM1YjMyMTM0OCJ9)
 
